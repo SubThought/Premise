@@ -1,4 +1,4 @@
-
+  
 The SubSubThought Premise Language Reference
 
 version 3.0
