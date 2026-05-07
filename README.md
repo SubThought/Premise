@@ -1,2 +1,0 @@
-# Premise
-Stigmergic Agent Language
