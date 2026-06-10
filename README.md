@@ -1,6 +1,6 @@
 # The Premise Language
 
-Premise is a language and runtime for the Premise Abstract Machine (PAM). It provides a REPL, module system, knowledge-base integration, task runtime, and support for distributed agency.
+Premise is both a programming language and a platform. The Premise Abstract Machine (PAM) provides a REPL, compiler, module system, integrated knowledge-base, and a multi-tasking runtime supporting distributed agency via messaging across varied internet protocols.
 
 ## COPYRIGHT
 
