@@ -1,4 +1,4 @@
-# Premise Language
+# The Premise Language
 
 Premise is a language and runtime for the Premise Abstract Machine (PAM). It provides a REPL, module system, knowledge-base integration, task runtime, and support for distributed agency.
 
