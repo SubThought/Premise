@@ -96,6 +96,8 @@ premise /            ← Premise installation folder
  │     
  ├── doc /           ← documentation 
  │
+ ├── eg  /           ← examples
+ │
  ├── lib /           ← modules: Apex, Base, IO, KB, Math, Peer, Rules, Tasks, User
  │    │
  │    ├── Apex /
