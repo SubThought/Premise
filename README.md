@@ -89,9 +89,11 @@ For legal information type (copyright) or (license). Type (bye) to exit.
 premise /            ← Premise installation folder
  │
  │   premise.exe
- │   premise.grimoire
- │   premise.daicho
  │
+ ├── cfg /           ← configuration
+ │    ├── premise.grimoire   (grammar)
+ │    └── premise.daicho     (settings)
+ │     
  ├── doc /           ← documentation 
  │
  ├── lib /           ← modules: Apex, Base, IO, KB, Math, Peer, Rules, Tasks, User
